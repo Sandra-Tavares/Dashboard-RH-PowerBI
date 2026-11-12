@@ -1,4 +1,5 @@
 # Dashboard de Recursos Humanos | Power BI
+Estou iniciando minha trajetória na criação de Dashboard com o Power Bi  e este é o meu 3o. projeto com a ferramenta.
 
 Projeto de visualização e acompanhamento de indicadores de Recursos Humanos, desenvolvido no **Microsoft Power BI**.
 
@@ -33,9 +34,6 @@ Veja também: [Análise detalhada dos indicadores](INSIGHTS.md).
 - Microsoft Power BI
 - Visualizações interativas e segmentações de dados
 
-## Fonte e limitações
-
-Os números acima foram transcritos da **captura do dashboard fornecida em PDF**. Não foram disponibilizados o arquivo `.pbix`, a base original, o dicionário de dados nem o período de referência. Portanto, os insights são **descritivos** e não demonstram causalidade. Os dados e os nomes utilizados no projeto são fictícios, conforme informado pela autora.
 
 ## Arquivos
 
